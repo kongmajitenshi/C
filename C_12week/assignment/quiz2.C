@@ -14,7 +14,8 @@ int main()
         printf("점수 입력: ");
         scanf("%d", &score);
         /*sco[i] = score;
-        printf("sco[%d]에 입력된 점수: %d \n", i, sco[i]);*/ //sco[i]에 score를 입력받은 후 확인하는 문장 만들기(만들어둔거임)
+        printf("sco[%d]에 입력된 점수: %d \n", i, sco[i]);*/ 
+        //sco[i]에 입력받은 score값을 넣은 후 확인하는 문장 만들기(만들어둔거임)
     }
     
     return 0;
