@@ -8,8 +8,6 @@ int main()
   {
   printf("num[%d]의 값: %d", i, num[i]);
   }
-
-
 }
 
 // 출력되는 결과는?
